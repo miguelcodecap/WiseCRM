@@ -2,6 +2,7 @@
 import type { ReactNode } from 'react';
 import { SECTIONS, type Section } from '@/lib/types';
 import { Icon } from './Icons';
+import { CreatedBy } from './CreatedBy';
 import { Logo } from './Logo';
 
 interface Props {
@@ -89,7 +90,10 @@ export function Shell(p: Props) {
             </div>
           </div>
         </header>
-        <div className="content">{p.children}</div>
+        <div className="content">
+          {p.children}
+          <CreatedBy />
+        </div>
       </main>
     </div>
   );

@@ -1,6 +1,7 @@
 'use client';
 import { useState, type FormEvent } from 'react';
 import { supabase } from '@/lib/supabase';
+import { CreatedBy } from './CreatedBy';
 import { OwlMark } from './Logo';
 
 const FEATURES = [
@@ -96,6 +97,7 @@ export function AuthScreen({ onDemo }: { onDemo(): void }) {
             {mode === 'signin' ? 'Create an account' : 'Sign in'}
           </button>
         </p>
+        <CreatedBy />
       </section>
     </div>
   );

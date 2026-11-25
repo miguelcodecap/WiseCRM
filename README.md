@@ -114,4 +114,4 @@ Next.js 15 (App Router) · React 19 · TypeScript · Supabase (Postgres, Auth, R
 
 ---
 
-Built by **Miguel Ángel Núñez Gallo** · WiseSource. The demo uses fictional data only.
+Created by **Miguel Ángel Núñez Gallo** · GitHub [@miguelcodecap](https://github.com/miguelcodecap) · WiseSource. The demo uses fictional data only.
