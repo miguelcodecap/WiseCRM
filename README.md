@@ -5,7 +5,7 @@
 <h1 align="center">WiseCRM</h1>
 <p align="center"><b>The sales CRM that explains its numbers.</b></p>
 <p align="center">
-  <a href="https://YOUR-PROJECT.vercel.app/?demo">Live demo</a> ·
+  <a href="https://wise-crm-five.vercel.app/?demo">Live demo</a> ·
   <a href="#features">Features</a> ·
   <a href="#architecture">Architecture</a> ·
   <a href="#run-it-locally">Run locally</a>
@@ -15,7 +15,7 @@
 
 WiseCRM is a sales CRM built with **Next.js, React, TypeScript and Supabase**. Beyond the usual contacts and pipeline, it focuses on something most CRMs hide: **the math behind sales metrics**. Every number (weighted forecast, win rate, sales cycle, sales velocity) shows its formula, and an AI copilot answers questions using only your own data.
 
-> Try it without signing up: the live demo opens a sandbox workspace with fictional data stored only in your browser.
+> **Try it live: [wise-crm-five.vercel.app](https://wise-crm-five.vercel.app/?demo)**. No sign-up: the demo opens a sandbox workspace with fictional data stored only in your browser.
 
 ## Features
 
